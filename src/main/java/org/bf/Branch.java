@@ -1,5 +1,5 @@
 package org.bf;
 
 public class Branch {
-    String name = "f2";
+    String name = "resolved";
 }
